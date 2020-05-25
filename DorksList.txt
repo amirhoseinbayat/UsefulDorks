@@ -1,0 +1,19 @@
+intitle:”index.of” “parent directory” “size” “last modified” “description” -site:.info
+
+inurl:wp-content
+
+inurl:wp-admin
+
+inurl:/uploads/
+
+inurl:App_Data
+
+intitle:”index.of” “parent directory” “size” “last modified” “description” (mp4|flv|avi|flac|aac|ape|ogg) -inurl:(jsp|php|html|aspx|htm|cf|shtml) -site:.info
+
+intitle:"index.of"
+
+intitle:"index.of" inurl:ftp
+
+inurl:/backup
+
+filetype:xls "password" "username" "email"
